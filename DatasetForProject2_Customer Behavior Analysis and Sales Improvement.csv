@@ -1,0 +1,101 @@
+Customer_ID,Category,Purchase_Frequency,Average_Amount_Spent,Used_Discount,Customer_Satisfaction
+Customer_1,Sports,7,173.62480684552887,False,1
+Customer_2,Sports,15,302.55954163146555,False,1
+Customer_3,Electronics,11,222.31709363920544,True,4
+Customer_4,Sports,8,487.2704429250967,False,4
+Customer_5,Sports,7,432.01122091973775,True,5
+Customer_6,Sports,19,374.77828452419294,False,5
+Customer_7,Groceries,11,156.19321388703008,False,3
+Customer_8,Home & Kitchen,11,165.2307452425958,False,4
+Customer_9,Clothing,4,68.1951152922941,True,1
+Customer_10,Groceries,8,369.7983003586043,True,5
+Customer_11,Sports,3,99.9008693653241,False,5
+Customer_12,Electronics,2,247.70142583959654,True,1
+Customer_13,Sports,12,140.7736410509283,True,5
+Customer_14,Home & Kitchen,6,453.09361805308373,True,3
+Customer_15,Sports,2,263.9166004319503,True,4
+Customer_16,Electronics,1,303.4740073893727,True,1
+Customer_17,Home & Kitchen,12,362.9822388917574,True,4
+Customer_18,Sports,12,112.69915448264406,False,5
+Customer_19,Home & Kitchen,17,321.98782067501776,False,5
+Customer_20,Clothing,10,292.9284910857529,True,1
+Customer_21,Clothing,16,141.37755113064622,False,3
+Customer_22,Sports,15,474.2841067510915,False,2
+Customer_23,Home & Kitchen,15,319.4894599198412,False,1
+Customer_24,Electronics,19,362.65321986786705,False,2
+Customer_25,Sports,12,446.210527556866,True,2
+Customer_26,Clothing,3,330.95932166020697,False,3
+Customer_27,Clothing,5,183.03515862697128,False,2
+Customer_28,Sports,19,97.47241692362178,True,2
+Customer_29,Home & Kitchen,7,255.44055671730962,True,3
+Customer_30,Clothing,9,148.2981967475751,False,2
+Customer_31,Home & Kitchen,7,237.4294765416648,False,2
+Customer_32,Clothing,18,447.47611651349075,False,2
+Customer_33,Clothing,4,195.95525945237327,False,1
+Customer_34,Groceries,14,104.93957961530302,False,1
+Customer_35,Clothing,18,210.33402713463872,False,1
+Customer_36,Electronics,9,458.0727986955893,True,3
+Customer_37,Sports,2,172.45951222308588,False,5
+Customer_38,Sports,15,341.46055424361305,False,2
+Customer_39,Home & Kitchen,7,50.23416964789212,True,2
+Customer_40,Clothing,12,208.65598535037606,True,3
+Customer_41,Electronics,8,187.15156617111307,True,2
+Customer_42,Home & Kitchen,15,124.09513391432378,True,1
+Customer_43,Groceries,3,290.34023871894885,False,5
+Customer_44,Home & Kitchen,14,268.17348711154244,False,4
+Customer_45,Home & Kitchen,17,361.5962148006216,False,2
+Customer_46,Clothing,4,171.23555020933466,False,1
+Customer_47,Groceries,18,159.85648501149836,False,4
+Customer_48,Home & Kitchen,8,125.73096897781875,False,5
+Customer_49,Electronics,4,148.44389880788162,True,4
+Customer_50,Electronics,2,301.14590090780354,False,1
+Customer_51,Sports,6,231.72627697611836,True,4
+Customer_52,Groceries,10,79.2015111990417,True,3
+Customer_53,Groceries,4,164.26193627045512,False,4
+Customer_54,Sports,18,161.09422827737052,True,2
+Customer_55,Home & Kitchen,12,363.33692277790476,False,2
+Customer_56,Groceries,2,370.5217654659989,True,3
+Customer_57,Electronics,10,116.63911847902995,False,1
+Customer_58,Electronics,4,498.98321827202386,True,2
+Customer_59,Clothing,14,170.05145642387825,False,5
+Customer_60,Groceries,16,489.4767301246938,False,2
+Customer_61,Home & Kitchen,15,234.96665599320409,False,2
+Customer_62,Sports,8,64.87282980524677,False,1
+Customer_63,Sports,14,205.28206161200734,False,4
+Customer_64,Home & Kitchen,8,335.4581051156137,True,2
+Customer_65,Clothing,16,356.31745319964506,True,3
+Customer_66,Sports,13,288.9205624927114,True,4
+Customer_67,Groceries,18,251.50242405789123,False,5
+Customer_68,Clothing,15,298.80189008209754,True,1
+Customer_69,Groceries,13,316.7135257457271,False,5
+Customer_70,Electronics,9,86.38399684972185,False,4
+Customer_71,Clothing,15,216.344505227632,True,4
+Customer_72,Sports,13,158.97197222484164,True,4
+Customer_73,Clothing,1,411.41289037095316,False,5
+Customer_74,Clothing,7,261.63528550071726,True,4
+Customer_75,Clothing,9,492.54041340267935,False,5
+Customer_76,Clothing,1,229.47099910004889,False,4
+Customer_77,Groceries,12,417.3943429487228,False,3
+Customer_78,Electronics,8,409.255306243048,False,4
+Customer_79,Home & Kitchen,11,117.82289478444326,False,5
+Customer_80,Clothing,19,278.6894495333234,True,2
+Customer_81,Sports,17,363.1157630558968,True,4
+Customer_82,Clothing,8,436.26146216617394,False,2
+Customer_83,Sports,3,196.68150734084813,False,3
+Customer_84,Groceries,3,149.10847140449675,True,1
+Customer_85,Sports,1,370.017289597108,True,3
+Customer_86,Home & Kitchen,5,414.2754707628719,False,4
+Customer_87,Electronics,10,206.89969428127822,True,2
+Customer_88,Sports,7,93.27944799113934,False,2
+Customer_89,Sports,9,473.2354690203218,True,5
+Customer_90,Electronics,7,228.90740948938503,False,2
+Customer_91,Home & Kitchen,9,282.988107737366,True,5
+Customer_92,Clothing,8,426.9695476582976,False,1
+Customer_93,Sports,12,354.06055266767635,True,4
+Customer_94,Electronics,2,380.8472536583475,True,5
+Customer_95,Groceries,1,144.08222933197118,False,1
+Customer_96,Electronics,16,293.6515882224046,True,2
+Customer_97,Groceries,5,363.102979705287,False,2
+Customer_98,Home & Kitchen,3,152.84750980878485,True,1
+Customer_99,Clothing,12,128.72971719317127,False,2
+Customer_100,Electronics,8,491.97575449824603,True,1
