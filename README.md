@@ -3,3 +3,5 @@ This repository contains a collection of synthetic datasets created for data ana
 
 The data includes various scenarios and industries, including retail, e-commerce, and customer behavior analytics, to help you build projects that simulate real-world business challenges. Perfect for data scientists, analysts, and anyone looking to sharpen their skills with realistic yet fictitious data!
 
+---
+## You can find all Datasets here: https://www.kaggle.com/halaturkialotaibi/datasets
